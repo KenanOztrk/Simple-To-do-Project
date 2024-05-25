@@ -1,7 +1,7 @@
 {
   "canisters": {
-    "Icp_Project_backend": {
-      "main": "src/Icp_Project_backend/main.mo",
+    "phone_book_backend": {
+      "main": "src/phone_book_backend/main.mo",
       "type": "motoko"
     }
   },
